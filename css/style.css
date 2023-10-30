@@ -11,7 +11,16 @@
 }
 .container1{
     display: flex;
+    list-style-type: none;
 }
 .container2{
     display: flex;
+    list-style-type: none;
+}
+.jumbo-text{
+    text-align: center;
+}
+footer{
+    background-color: black;
+    color: white;
 }

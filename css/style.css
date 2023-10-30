@@ -6,12 +6,12 @@
 .top-bar{
     background-color: white;
     width: auto;
+    display: flex;
+    justify-content: space-between;
 }
 .container1{
     display: flex;
-    justify-content: flex-start;
 }
 .container2{
     display: flex;
-    justify-content: flex-end;
 }

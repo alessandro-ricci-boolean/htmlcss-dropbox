@@ -32,6 +32,12 @@ header{
 .jumbo-text{
     text-align: center;
 }
+.plans{
+    display: flex;
+}
+.professional{
+    list-style: none;
+}
 .partners{
     display: flex;
 }
